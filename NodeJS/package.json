@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "bitly": "^7.1.2",
+    "dotenv": "^16.0.3",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
